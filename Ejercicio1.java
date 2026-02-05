@@ -1,7 +1,7 @@
-Evaluacion Conceptual 
+/*Evaluacion Conceptual 
 Ejercicio 1
 " Implemente el getter y el setter de acuerdo a la documentación de la clase "
-Version del parcial
+Version del parcial*/
 
 public class Rectangulo {
     public String identificador;
@@ -25,7 +25,7 @@ public class Rectangulo {
         return identificador;
     }
 }
-Version corregida /////////////////////////////////////////////////////////////////////////////////////////////
+//Version corregida 
 public class Rectangulo {
     public String identificador;
 
